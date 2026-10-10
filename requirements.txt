@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+faiss-cpu
+youtube-transcript-api>=1.0.0
